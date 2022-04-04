@@ -1,0 +1,13 @@
+city,type_of_broadband_connection,name_of_isp,download_total_obs,average_download_speed_avg,average_download_speed_sd,60perc_download_avg,60perc_download_sd,upload_total_obs,average_upload_speed_avg,average_upload_speed_sd,60perc_upload_avg,60perc_upload_sd
+Databury,ADSL,Fibrelicious,6150,9.1,0.2,9.6,0.4,5873,0.6,0,0.6,0
+Databury,ADSL,Useus,8127,14.6,0.2,15,0.3,7894,0.7,0,0.7,0
+Databury,Fibre,Fibrelicious,10200,213.9,3.2,218,3.3,9910,71.6,0.8,73,1
+Databury,Fibre,Useus,14669,182.4,2.5,185.9,2.5,14266,72.9,0.8,74.5,1
+Databury,VDSL,Fibrelicious,9291,20,0.8,21,1,8989,5.4,0.2,5.6,0.3
+Databury,VDSL,Useus,14486,17.4,0.6,18.3,0.8,14044,4.6,0.2,4.7,0.2
+Samsville,ADSL,Fibrelicious,6723,9,0.4,9.5,0.5,6631,0.5,0,0.6,0
+Samsville,ADSL,Useus,10107,14.4,0.2,14.7,0.3,9731,0.7,0,0.7,0
+Samsville,Fibre,Fibrelicious,6660,231.2,2.3,236,2.5,6433,76.7,1.1,78.5,1.4
+Samsville,Fibre,Useus,15610,192.4,3.4,196.6,3.5,15172,77.2,1,78.7,1.4
+Samsville,VDSL,Fibrelicious,11061,39.5,1.2,41.6,1.7,10684,10.4,0.4,10.9,0.5
+Samsville,VDSL,Useus,12915,34.6,1,36.2,1,12498,8.9,0.3,9.4,0.4
